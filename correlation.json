@@ -1,4 +1,4 @@
-  {
+  [{
     "pair": "Avg_Basket-Footfall",
     "correlation": 0.12820485213487712
   },
@@ -9,5 +9,5 @@
   {
     "pair": "Promo_Spend-Footfall",
     "correlation": 0.005171306238773382
-  }
+  }]
   
