@@ -9,5 +9,10 @@
   {
     "pair": "Promo_Spend-Footfall",
     "correlation": 0.005171306238773382
-  }]
+  },
+    {
+    "strongest_correlation_pair": "Avg_Basket-Footfall",
+    "strongest_correlation_value": 0.12820485213487712
+  }
+]
   
